@@ -6,11 +6,11 @@
 - Ice Cream 
 - code
 
-$cd change directory
+`cd change directory`
 
-$mkdir <folder>
+`mkdir <folder>`
 
-$ls list the objects in the folder
+`ls list the objects in the folder`
 
 
-$git clone <link>
+`git clone <link>`
