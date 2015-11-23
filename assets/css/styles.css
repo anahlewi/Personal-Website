@@ -25,6 +25,17 @@ h6 {
   font-weight: 700;
   color: #778492;
 }
+h4{
+   margin-top: 32px
+}
+
+h4.title a{
+  color:#778492;
+}
+
+h4.title  a:hover{
+  color:#7B7F84;
+}
 a {
   color: #18bc9c;
   -webkit-transition: all 0.4s ease-in-out;
@@ -34,8 +45,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  color: #059679;
+  color: #059679;
 }
 a:focus {
   text-decoration: none;
@@ -100,10 +111,6 @@ a.dotted-link {
 a.dotted-link:hover {
   text-decoration: none;
   color: #49515a;
-}
-
-h4{
-   margin-top: 32px
 }
 /*
 iframe {
